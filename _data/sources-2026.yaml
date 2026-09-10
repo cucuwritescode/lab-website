@@ -1,0 +1,13 @@
+- title: Performance-Oriented Wave Digital Circuit Emulation
+  authors:
+    - Jatin Chowdhury
+    - Mark Rau
+  image: images/jatin/wdf_compiler_zen4.png
+  buttons:
+    - type: source
+      link: https://github.com/Chowdhury-DSP/wdf_compiler
+  publisher: DAFx-26
+  date: 2026-09-02
+  link: https://dafx26.mit.edu/assets/papers/DAFx26_paper_23.pdf
+  jatin-chowdhury: true
+  mark-rau: true
